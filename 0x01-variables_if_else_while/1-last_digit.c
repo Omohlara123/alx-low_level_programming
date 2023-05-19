@@ -1,7 +1,3 @@
-/**
- * File: 0-positive_or_negative.c
- * Auth: Lahcen Oubbaih
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -24,7 +20,7 @@ int main(void)
 	}
 	else if ((n % 10) < 6 && (n % 10) != 0)
 	{
-		printf("Last digit of %d is %d and is less tha 6 and not 0\n", n, n % 10);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, n % 10);
 	}
 	else
 	{
