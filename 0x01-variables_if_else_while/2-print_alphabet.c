@@ -8,7 +8,7 @@ int main(void)
 {
 	char c;
 
-	c = 'a'; c <= 'z'; c++)
+	c = 'a'; c <= 'z'; c++;)
 		putchar(c);
 	        putchar('\n');
 	        return (0);
