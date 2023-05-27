@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	mor_numbers();
-	return (0);
+    mor_numbers();
+    return (0);
 }
