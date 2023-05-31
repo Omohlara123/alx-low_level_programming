@@ -8,7 +8,7 @@
  * return: *s
  */
 
-char *rot13(char *a)
+char *rot13(char *s)
 {
 	int i;
 	int j;
